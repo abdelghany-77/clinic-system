@@ -157,14 +157,14 @@ src/
 └── server.js              # Entry point
 ```
 ## Photos
-<img width="1910" height="1548" alt="clinic-system10" src="https://github.com/user-attachments/assets/f5502354-c9ef-4024-b31a-5ed193978699" />
-<img width="1910" height="1602" alt="clinic-system9" src="https://github.com/user-attachments/assets/63677039-8a38-4dce-b038-4375d09a487c" />
-<img width="1910" height="1060" alt="clinic-system8" src="https://github.com/user-attachments/assets/f6d024cb-53e0-48a8-8c20-c6e05e8e5540" />
-<img width="1910" height="1063" alt="clinic-system7" src="https://github.com/user-attachments/assets/f7ade5fd-465b-456a-a813-3b42d5b12814" />
-<img width="1910" height="1382" alt="clinic-system6" src="https://github.com/user-attachments/assets/65e96710-b13a-4e05-a6d4-75937e47a6c7" />
-<img width="1910" height="1387" alt="clinic-system5" src="https://github.com/user-attachments/assets/67735803-5084-4980-950b-157f160af0ab" />
-<img width="1910" height="945" alt="clinic-system4" src="https://github.com/user-attachments/assets/cebff397-b90d-4696-947a-df45023f8450" />
-<img width="1910" height="945" alt="clinic-system3" src="https://github.com/user-attachments/assets/4b72374e-061c-4493-af53-44b18ef47054" />
-<img width="1910" height="1010" alt="clinic-system2" src="https://github.com/user-attachments/assets/8de1054d-045b-436c-a336-8317a23ecd7a" />
 <img width="1910" height="1137" alt="clinic-system1" src="https://github.com/user-attachments/assets/3145e312-14e4-4f52-8145-8cadfd8e23a3" />
+<img width="1910" height="1010" alt="clinic-system2" src="https://github.com/user-attachments/assets/8de1054d-045b-436c-a336-8317a23ecd7a" />
+<img width="1910" height="945" alt="clinic-system3" src="https://github.com/user-attachments/assets/4b72374e-061c-4493-af53-44b18ef47054" />
+<img width="1910" height="945" alt="clinic-system4" src="https://github.com/user-attachments/assets/cebff397-b90d-4696-947a-df45023f8450" />
+<img width="1910" height="1387" alt="clinic-system5" src="https://github.com/user-attachments/assets/67735803-5084-4980-950b-157f160af0ab" />
+<img width="1910" height="1382" alt="clinic-system6" src="https://github.com/user-attachments/assets/65e96710-b13a-4e05-a6d4-75937e47a6c7" />
+<img width="1910" height="1063" alt="clinic-system7" src="https://github.com/user-attachments/assets/f7ade5fd-465b-456a-a813-3b42d5b12814" />
+<img width="1910" height="1060" alt="clinic-system8" src="https://github.com/user-attachments/assets/f6d024cb-53e0-48a8-8c20-c6e05e8e5540" />
+<img width="1910" height="1602" alt="clinic-system9" src="https://github.com/user-attachments/assets/63677039-8a38-4dce-b038-4375d09a487c" />
+<img width="1910" height="1548" alt="clinic-system10" src="https://github.com/user-attachments/assets/f5502354-c9ef-4024-b31a-5ed193978699" />
 
